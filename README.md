@@ -16,7 +16,8 @@ Build foundations for advanced predictive models and strategy simulations.
 Enable interactive visual dashboards for non-technical users.
 
 Project Structure
-'''formula1/
+```bash
+formula1/
 │
 ├── data/                    # Raw and processed data
 │   ├── f1data.db            # Local SQLite backup
@@ -34,8 +35,8 @@ Project Structure
 │
 ├── .gitignore               # Ignored files and directories
 ├── requirements.txt         # Dependencies
-└── README.md                # Project documentation'''
-
+└── README.md                # Project documentation
+```
 Key Analytical Features
 
 Qualifying Analysis – Derives driver starting order, team performance, and grid consistency.
