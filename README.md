@@ -16,7 +16,7 @@ Build foundations for advanced predictive models and strategy simulations.
 Enable interactive visual dashboards for non-technical users.
 
 Project Structure
-formula1/
+'''formula1/
 │
 ├── data/                    # Raw and processed data
 │   ├── f1data.db            # Local SQLite backup
@@ -34,7 +34,7 @@ formula1/
 │
 ├── .gitignore               # Ignored files and directories
 ├── requirements.txt         # Dependencies
-└── README.md                # Project documentation
+└── README.md                # Project documentation'''
 
 Key Analytical Features
 
@@ -62,4 +62,5 @@ Notes
 
 This project focuses exclusively on the 2022–2025 Formula 1 ground-effect era, a pivotal phase in F1 history marked by aerodynamic regulation changes, evolving car philosophies, and shifting competitive balances.
 The aim is to quantify this era’s dynamics before the next regulatory shift in 2026.
+
 
